@@ -1,4 +1,4 @@
-application demo : https://futureml02-k5fbgvmmy4m7pmyb2t2ery.streamlit.app/
+
 # 🚀 IT Support Ticket Classification & Priority Prediction System  
 ## 📊 End-to-End Machine Learning Project for Automated Ticket Classification using NLP  
 
