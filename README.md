@@ -246,11 +246,4 @@ Possible improvements for the system:
 
 ---
 
-## 👨‍💻 Author  
 
-### Deepak Chakrasali  
-
-Machine Learning & AI Enthusiast  
-
-### GitHub  
-https://github.com/Deepakchakra  
